@@ -1,0 +1,15 @@
+/workspaces/data_structure/bin/Debug/net8.0/data_structure
+/workspaces/data_structure/bin/Debug/net8.0/data_structure.deps.json
+/workspaces/data_structure/bin/Debug/net8.0/data_structure.runtimeconfig.json
+/workspaces/data_structure/bin/Debug/net8.0/data_structure.dll
+/workspaces/data_structure/bin/Debug/net8.0/data_structure.pdb
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.AssemblyInfoInputs.cache
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.AssemblyInfo.cs
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.csproj.CoreCompileInputs.cache
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.sourcelink.json
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.dll
+/workspaces/data_structure/obj/Debug/net8.0/refint/data_structure.dll
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.pdb
+/workspaces/data_structure/obj/Debug/net8.0/data_structure.genruntimeconfig.cache
+/workspaces/data_structure/obj/Debug/net8.0/ref/data_structure.dll
